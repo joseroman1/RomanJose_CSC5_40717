@@ -5,7 +5,7 @@
  *      Purpose: How easy computers can make mistakes
 */
 
-//System Libraries 
+//System Libraries
 #include <iostream>
 using namespace std;
 
@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
     //Declare 3 variables
     float a,b,c;
     //Prompt for a and b
-    cout<<"Input 2 short values"<<endl;
+    cout<<"Input 2 float values"<<endl;
     cin>>a,b;
     //Sum the values
      c=a+b;
@@ -30,4 +30,3 @@ int main(int argc, char** argv) {
 
     return 0;
 }
-
