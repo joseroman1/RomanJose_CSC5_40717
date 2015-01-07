@@ -15,18 +15,17 @@ using namespace std;
 
 //Functions Prototypes
 
-//Executions begin here!
-int main(int argc, char** argv) {
-    //Declare 3 variables
-    float a,b,c;
-    //Prompt for a and b
-    cout<<"Input 2 float values"<<endl;
-    cin>>a,b;
-    //Sum the values
-     c=a+b;
-    //Output the results
-    cout<<c<<" = "<<a<<" + "<<b<<endl;
-    //Exit stage right!
-
-    return 0;
-}
+//Executions begin here! 
+int main(int argc, char** argv) { 
+     //Declare 3 variables 
+     float a,b,c; 
+     //Prompt for a and b 
+     cout<<"Input 2 float values"<<endl; 
+     cin>>a>>b; 
+    //Sum the values 
+     c=a+b; 
+     //Output the results 
+     cout<<c<<" = "<<a<<" + "<<b<<endl; 
+     //Exit stage right! 
+     return 0; 
+ } 
