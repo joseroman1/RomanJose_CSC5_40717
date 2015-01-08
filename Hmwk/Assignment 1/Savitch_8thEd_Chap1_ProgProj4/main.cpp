@@ -2,7 +2,7 @@
  * File:   main.cpp
  * Author: Jose Roman
  *Created on January 7, 2015, 1:48 PM
- * Purpose: Savitch_8thEd_Chap1_ProgProj1
+ * Purpose: Savitch_8thEd_Chap1_ProgProj4 
  */
 
 //System Libraries
