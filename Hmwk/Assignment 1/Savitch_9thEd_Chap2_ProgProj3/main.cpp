@@ -1,19 +1,22 @@
 /* 
  * File:   main.cpp
- * Author: rcc
- *
- * Created on January 8, 2015, 9:04 AM
+ * Author: Jose Roman
+ *Created on January 8, 2015, 7:50 AM
+ * Purpose:
  */
 
-#include <cstdlib>
-
+//System Libraries 
+#include <iostream>
 using namespace std;
 
-/*
- * 
- */
+//User Libraries
+
+//Global Constants 
+ 
+//Function Prototypes
+
+//Execution Begins Here!
 int main(int argc, char** argv) {
 
     return 0;
 }
-
